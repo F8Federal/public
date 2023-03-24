@@ -1,0 +1,3 @@
+*.pth
+siamese_rpn_r50_20e_lasot.py
+__pycache__
